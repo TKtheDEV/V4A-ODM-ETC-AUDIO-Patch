@@ -17,7 +17,7 @@ This is a universal patch module for [ViPER4Android FX](https://github.com/WSTxd
 
 ## Installation
 
-1. Flash Viper4Android and install the App, then flash this patch.
+1. Flash Viper4Android and press the "action" button to download and install the App, then flash this patch.
 2. Reboot your device.
 3. Disable Dolby/Xiaomi sound enhancements in settings
 4. Give ViPER4Android FX root access
