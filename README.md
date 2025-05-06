@@ -12,7 +12,7 @@ This is a universal patch module for [ViPER4Android FX](https://github.com/WSTxd
 ## Requirements
 
 - Rooted device
-- ViPER4Android FX RE installed (use [RE releases here](https://github.com/WSTxda/ViPERFX_RE))
+- ViPER4Android FX RE installed (use [RE releases here](https://github.com/WSTxda/ViPERFX_RE/releases/latest))
 - Driver file must exist at `/vendor/lib64/soundfx/libv4a_re.so`
 
 ## Installation
